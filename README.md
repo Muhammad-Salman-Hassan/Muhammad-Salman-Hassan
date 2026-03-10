@@ -39,13 +39,13 @@ I am a Software Engineer with over 3 years of professional experience building s
 
 ### 📂 Featured Projects
 
-#### [xNotify - Enterprise Notification Platform](https://github.com/YOUR_GITHUB_USERNAME/xnotify)
+#### [xNotify - Enterprise Notification Platform]
 An omnichannel system powering enterprise-level SMS and WhatsApp communications using a distributed microservices architecture.
 
-#### [Salik Replication & Stock Management](https://github.com/YOUR_GITHUB_USERNAME/salik-clone)
+#### [Salik Replication & Stock Management](https://github.com/Muhammad-Salman-Hassan/salik)
 A React.js web application focused on seamless user experience and real-time balance tracking, simulating UAE payment gateway architectures.
 
-#### [ThinkMoves - Chess Game Analyzer](https://github.com/YOUR_GITHUB_USERNAME/thinkmoves)
+#### [ThinkMoves - Chess Game Analyzer](https://thinkmoves.com)
 A web-based analytical tool that evaluates chess moves and highlights inaccuracies using custom PGN logic.
 
 ---
@@ -54,11 +54,11 @@ A web-based analytical tool that evaluates chess moves and highlights inaccuraci
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) [cite: 1] |
-| **Upwork** | [upwork.com/freelancers/YOUR_UPWORK](https://www.upwork.com/freelancers/YOUR_UPWORK) |
-| **Instagram** | [@YOUR_INSTAGRAM](https://instagram.com/YOUR_INSTAGRAM) |
-| **WhatsApp** | [+92 332 3286145](https://wa.me/923323286145) [cite: 1] |
-| **Email** | [msalmanhassan288311@gmail.com](mailto:msalmanhassan288311@gmail.com) [cite: 2] |
+| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/salman-hassan-6a821a184)  |
+| **Upwork** | [upwork.com/freelancers/YOUR_UPWORK](https://www.upwork.com/freelancers/~0160f2c92711e490ba) |
+| **Instagram** | [@YOUR_INSTAGRAM](https://www.instagram.com/muhammadsalman3187) |
+| **WhatsApp** | [+92 332 3286145](https://wa.me/923323286145)  |
+| **Email** | [msalmanhassan288311@gmail.com](mailto:msalmanhassan288311@gmail.com) |
 
 ---
 *"Building the future of Fintech, one microservice at a time."*
