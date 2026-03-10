@@ -4,9 +4,9 @@
 I am a Software Engineer with over 3 years of professional experience building scalable applications, specifically within the Fintech and Omnichannel messaging sectors. I specialize in optimizing system performance and architecting real-time dashboards that handle millions of transactions.
 
 - 🌍 Based in Karachi, Pakistan (Open to Relocation & Remote)
-- 🚀 Currently scaling **xNotify**, enhancing delivery reliability by 20%[cite: 16].
-- 🛠️ Expert in **React.js, Node.js, and Microservices Architecture**[cite: 4, 32].
-- 🎯 Proven track record in reducing API response times by 25%[cite: 5].
+- 🚀 Currently scaling **xNotify**, enhancing delivery reliability by 20%.
+- 🛠️ Expert in **React.js, Node.js, and Microservices Architecture**.
+- 🎯 Proven track record in reducing API response times by 25%.
 
 ---
 
@@ -20,33 +20,33 @@ I am a Software Engineer with over 3 years of professional experience building s
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 [cite: 30] |
-| **Frontend** | React.js, Redux, Chakra UI, Tailwind CSS [cite: 31] |
-| **Backend** | Node.js, Express.js, Microservices, RESTful APIs [cite: 32] |
-| **Databases & Queues** | MySQL, Redis, BullMQ (Task Scheduling) [cite: 33] |
-| **Tools & DevOps** | Docker, Git, GitHub, Postman, Jira [cite: 34] |
+| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
+| **Frontend** | React.js, Redux, Chakra UI, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Microservices, RESTful APIs  |
+| **Databases & Queues** | MySQL, Redis, BullMQ (Task Scheduling)  |
+| **Tools & DevOps** | Docker, Git, GitHub, Postman, Jira  |
 
 ---
 
 ### 📈 Professional Impact
 
-* **Fintech Innovation**: Engineered a WhatsApp-based lending bot that drove a 35% increase in automated customer onboarding[cite: 17].
-* **Performance Engineering**: Refactored frontend architecture to reduce Time-to-Interactive by 28% and decreased bundle size by 22%[cite: 22].
-* **Scalability**: Developing **xNotify**, an enterprise-grade platform processing millions of SMS/WhatsApp messages daily[cite: 16].
-* **Regional Expertise**: Engineered a high-performance replication of Dubai's **Salik toll management** system[cite: 38].
+* **Fintech Innovation**: Engineered a WhatsApp-based lending bot that drove a 35% increase in automated customer onboarding.
+* **Performance Engineering**: Refactored frontend architecture to reduce Time-to-Interactive by 28% and decreased bundle size by 22%.
+* **Scalability**: Developing **xNotify**, an enterprise-grade platform processing millions of SMS/WhatsApp messages daily.
+* **Regional Expertise**: Engineered a high-performance replication of Dubai's **Salik toll management** system.
 
 ---
 
 ### 📂 Featured Projects
 
 #### [xNotify - Enterprise Notification Platform](https://github.com/YOUR_GITHUB_USERNAME/xnotify)
-An omnichannel system powering enterprise-level SMS and WhatsApp communications using a distributed microservices architecture[cite: 44, 45].
+An omnichannel system powering enterprise-level SMS and WhatsApp communications using a distributed microservices architecture.
 
 #### [Salik Replication & Stock Management](https://github.com/YOUR_GITHUB_USERNAME/salik-clone)
-A React.js web application focused on seamless user experience and real-time balance tracking, simulating UAE payment gateway architectures[cite: 37, 38, 40].
+A React.js web application focused on seamless user experience and real-time balance tracking, simulating UAE payment gateway architectures.
 
 #### [ThinkMoves - Chess Game Analyzer](https://github.com/YOUR_GITHUB_USERNAME/thinkmoves)
-A web-based analytical tool that evaluates chess moves and highlights inaccuracies using custom PGN logic[cite: 47, 48].
+A web-based analytical tool that evaluates chess moves and highlights inaccuracies using custom PGN logic.
 
 ---
 
