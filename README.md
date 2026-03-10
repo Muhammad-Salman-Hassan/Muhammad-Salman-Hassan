@@ -56,7 +56,7 @@ A web-based analytical tool that evaluates chess moves and highlights inaccuraci
 | :--- | :--- |
 | **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/salman-hassan-6a821a184)  |
 | **Upwork** | [upwork.com/freelancers/YOUR_UPWORK](https://www.upwork.com/freelancers/~0160f2c92711e490ba) |
-| **Instagram** | [@YOUR_INSTAGRAM](https://www.instagram.com/muhammadsalman3187) |
+| **Instagram** | [@muhammadsalman3187](https://www.instagram.com/muhammadsalman3187) |
 | **WhatsApp** | [+92 332 3286145](https://wa.me/923323286145)  |
 | **Email** | [msalmanhassan288311@gmail.com](mailto:msalmanhassan288311@gmail.com) |
 
